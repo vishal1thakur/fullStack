@@ -1,0 +1,16 @@
+{
+  "name": "practise1",
+  "version": "1.0.0",
+  "description": "node crash course traversy",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "author": "Vishal Thakur",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.12",
+    "uuid": "^8.3.2"
+  }
+}
